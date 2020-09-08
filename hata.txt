@@ -1,0 +1,3 @@
+mehmet,name 'a' is not defined
+ahmet,division by zero
+yesim,unsupported operand type(s) for +: 'int' and 'str'
